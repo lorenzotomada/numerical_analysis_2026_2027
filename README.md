@@ -1,2 +1,9 @@
-# numerical_analysis_2026_2027
-Material for the course of "Applied math: numerical analysis and scientific computing" held at SISSA in the academic year 2026-2027
+# Applied Mathematics: an Introduction to Scientific Computing by Numerical Analysis
+
+This repository contains material for the course Applied Mathematics: an Introduction to Scientific Computing by Numerical Analysis, academic year 2026-2027.
+
+**Lecturers**
+- Federico Pichi (fpichi@sissa.it)
+- Gianluigi Rozza (grozza@sissa.it)
+**Tutoring and exercise sessions**
+- Lorenzo Tomada (ltomada@sissa.it)
