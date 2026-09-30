@@ -36,7 +36,7 @@ to access Teams, accompanied by the following information:
 - scanned copy of valid front/back ID document
 
 
-## Syllabus 2025-2026
+## Syllabus 2026-2027
 Four Modules of 12h each (1.5 CFU for each module), for a total of 48h, 6 CFU
 
 ### Frontal Lectures
@@ -93,7 +93,7 @@ Four Modules of 12h each (1.5 CFU for each module), for a total of 48h, 6 CFU
 
 ### Students projects
 
-The final project will be presented by the tutor during the last Lab session of the course on **Wednesday, December 16th, 2026**.
+The final project will be presented by the tutor during the last Lab session of the course.
 The assignments will be described and uploaded in a dedicated Jupyter notebook.
 Regarding the mark at the exam, you can get a maximum of 27/30 if you don't complete the final project.
 The final project is **optional** and gives you additional 3 points to reach 30/30 or 30 cum laude.
